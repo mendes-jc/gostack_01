@@ -6,7 +6,7 @@ This (very) simple project was made as an answer to the first challenge of GoSta
 
 It is a very simple API that manages simple projects with tasks.
 
-## How can i run ?
+## How can I run ?
 
 Just clone this repo into any folder.\
 Inside the project folder, run **yarn** to download all the dependencies.\
