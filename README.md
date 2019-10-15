@@ -53,3 +53,8 @@ It also has two middlewares:
 
 - One of it verifies (when you pass an id) if there's a project with this id registered.
 - The other one counts the number of requests that was made since the server is running and print it to the console.
+
+### That's it!
+
+It is a very simple project, but it feels good when you get acquainted to new resources.
+If you think i made some kind of mistake, let me know, it's all about learning.
