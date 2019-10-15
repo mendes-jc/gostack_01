@@ -12,6 +12,8 @@ Just clone this repo into any folder.\
 Inside the project folder, run *yarn* to download all the dependencies.\
 After that, just run: node index.js
 
+If you don't change, it will run at the port: 3000.
+
 ## Routes
 
 ### GET /projects
