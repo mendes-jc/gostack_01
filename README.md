@@ -9,7 +9,7 @@ It is a very simple API that manages simple projects with tasks.
 ## How can i run ?
 
 Just clone this repo into any folder.\
-Inside the project folder, run *yarn* to download all the dependencies.\
+Inside the project folder, run **yarn** to download all the dependencies.\
 After that, just run: node index.js
 
 If you don't change, it will run at the port: 3000.
