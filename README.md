@@ -25,25 +25,25 @@ Get a specific project based on its id
 ### POST /projects
 Post a new project. You will need a json body like this:
 
-{
-  "id": "1",
-  "title": "Test Project"
+{\
+  "id": "1",\
+  "title": "Test Project"\
 }
 
 ### PUT /projects/[id]
 With this method you can change a project's title.
 You'll need to pass a json body with the new title:
 
-{
-  "title": "New Title"
+{\
+  "title": "New Title"\
 }
 
 ### POST /projects/[id]/tasks
 Add a new task to an existing project.
 You'll need a body with the task title:
 
-{
-  "title": "New task"
+{\
+  "title": "New task"\
 }
 
 ### DELETE /projects/[id]
