@@ -59,4 +59,4 @@ It also has two middlewares:
 ### That's it!
 
 It is a very simple project, but it feels good when you get acquainted to new resources.
-If you think i made some kind of mistake, let me know, it's all about learning.
+If you think I made some kind of mistake, let me know, it's all about learning.
